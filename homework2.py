@@ -5,5 +5,5 @@ b_count=1.5
 c='название курса'
 c_name='Python'
 d='Время на одно задание'
-print(c,':', c_name,',', a,':',a_count,',',b,':',b_count,',',d,':',12/1.5)
+print(c,':', c_name,',', a,':',a_count,',',b,':',b_count,',',d,':',1.5/12)
 
